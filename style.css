@@ -1,0 +1,36 @@
+body{
+    background-color: whitesmoke;
+}
+.tout{
+    background-color: white;
+    border: 1px solid white;
+    border-radius: 5%;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.dans{
+    margin-left: 30%;
+    margin-bottom: 30%;
+}
+.reponse{
+    margin-top: -220px;
+    margin-left: 350px;
+}
+input{
+    width: 2%;
+}
+ins{
+    margin-bottom: 10px;
+}
+.a{
+    background-color: red;
+}
+.b{
+background-color: red;
+}
+.c{
+background-color: red;
+}
+.btn{
+background-color: red;
+}
